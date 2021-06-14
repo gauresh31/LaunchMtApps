@@ -1,0 +1,3 @@
+include ':appsdk'
+include ':app'
+rootProject.name = "LaunchMyApps"
